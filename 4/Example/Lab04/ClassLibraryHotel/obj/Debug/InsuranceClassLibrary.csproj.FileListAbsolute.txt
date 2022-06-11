@@ -1,0 +1,6 @@
+C:\Users\serej\Desktop\Лабы\Net\4\Example\Lab04\ClassLibraryHotel\bin\Debug\ClassLibraryHotel.dll
+C:\Users\serej\Desktop\Лабы\Net\4\Example\Lab04\ClassLibraryHotel\bin\Debug\ClassLibraryHotel.pdb
+C:\Users\serej\Desktop\Лабы\Net\4\Example\Lab04\ClassLibraryHotel\obj\Debug\InsuranceClassLibrary.csproj.AssemblyReference.cache
+C:\Users\serej\Desktop\Лабы\Net\4\Example\Lab04\ClassLibraryHotel\obj\Debug\InsuranceClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\serej\Desktop\Лабы\Net\4\Example\Lab04\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.dll
+C:\Users\serej\Desktop\Лабы\Net\4\Example\Lab04\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.pdb

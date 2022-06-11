@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="CountryDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="city1">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="id_continent" Type="int" Nullable="false" />
+          <Property Name="photo" Type="image" />
+        </EntityType>
+        <EntityType Name="country1">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="photo" Type="image" />
+        </EntityType>
+        <Association Name="FK_city1_country11">
+          <End Role="country1" Type="Self.country1" Multiplicity="1" />
+          <End Role="city1" Type="Self.city1" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="country1">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="city1">
+              <PropertyRef Name="id_continent" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="CountryDBModelStoreContainer">
+          <EntitySet Name="city1" EntityType="Self.city1" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="country1" EntityType="Self.country1" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_city1_country11" Association="Self.FK_city1_country11">
+            <End Role="country1" EntitySet="country1" />
+            <End Role="city1" EntitySet="city1" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="CountryDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="CountryDBEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="city1" EntityType="CountryDBModel.city1" />
+          <EntitySet Name="country1" EntityType="CountryDBModel.country1" />
+          <AssociationSet Name="FK_city1_country11" Association="CountryDBModel.FK_city1_country11">
+            <End Role="country1" EntitySet="country1" />
+            <End Role="city1" EntitySet="city1" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="city1">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="id_continent" Type="Int32" Nullable="false" />
+          <Property Name="photo" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <NavigationProperty Name="country1" Relationship="CountryDBModel.FK_city1_country11" FromRole="city1" ToRole="country1" />
+        </EntityType>
+        <EntityType Name="country1">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="photo" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <NavigationProperty Name="city1" Relationship="CountryDBModel.FK_city1_country11" FromRole="country1" ToRole="city1" />
+        </EntityType>
+        <Association Name="FK_city1_country11">
+          <End Type="CountryDBModel.country1" Role="country1" Multiplicity="1" />
+          <End Type="CountryDBModel.city1" Role="city1" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="country1">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="city1">
+              <PropertyRef Name="id_continent" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="CountryDBModelStoreContainer" CdmEntityContainer="CountryDBEntities">
+          <EntitySetMapping Name="city1">
+            <EntityTypeMapping TypeName="CountryDBModel.city1">
+              <MappingFragment StoreEntitySet="city1">
+                <ScalarProperty Name="photo" ColumnName="photo" />
+                <ScalarProperty Name="id_continent" ColumnName="id_continent" />
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="id" ColumnName="id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="country1">
+            <EntityTypeMapping TypeName="CountryDBModel.country1">
+              <MappingFragment StoreEntitySet="country1">
+                <ScalarProperty Name="photo" ColumnName="photo" />
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="id" ColumnName="id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

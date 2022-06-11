@@ -1,0 +1,3 @@
+php_flag post_max_size 1G
+php_flag memory_limit 2G
+php_flag upload_max_filesize 1G

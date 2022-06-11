@@ -1,0 +1,13 @@
+C:\Users\ivanh\source\repos\.NET\lab_8\Example\Lab08\WindowsFormsControlLibraryHotel\bin\Debug\WindowsFormsControlLibraryHotel.dll
+C:\Users\ivanh\source\repos\.NET\lab_8\Example\Lab08\WindowsFormsControlLibraryHotel\bin\Debug\WindowsFormsControlLibraryHotel.pdb
+C:\Users\ivanh\source\repos\.NET\lab_8\Example\Lab08\WindowsFormsControlLibraryHotel\bin\Debug\ClassLibraryHotel.dll
+C:\Users\ivanh\source\repos\.NET\lab_8\Example\Lab08\WindowsFormsControlLibraryHotel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ivanh\source\repos\.NET\lab_8\Example\Lab08\WindowsFormsControlLibraryHotel\bin\Debug\ClassLibraryHotel.pdb
+C:\Users\ivanh\source\repos\.NET\lab_8\Example\Lab08\WindowsFormsControlLibraryHotel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ivanh\source\repos\.NET\lab_8\Example\Lab08\WindowsFormsControlLibraryHotel\obj\Debug\WindowsFormsControlLibraryHotel.csprojAssemblyReference.cache
+C:\Users\ivanh\source\repos\.NET\lab_8\Example\Lab08\WindowsFormsControlLibraryHotel\obj\Debug\WindowsFormsControlLibraryHotel.UserControlSettlement.resources
+C:\Users\ivanh\source\repos\.NET\lab_8\Example\Lab08\WindowsFormsControlLibraryHotel\obj\Debug\WindowsFormsControlLibraryHotel.csproj.GenerateResource.cache
+C:\Users\ivanh\source\repos\.NET\lab_8\Example\Lab08\WindowsFormsControlLibraryHotel\obj\Debug\WindowsFormsControlLibraryHotel.csproj.CoreCompileInputs.cache
+C:\Users\ivanh\source\repos\.NET\lab_8\Example\Lab08\WindowsFormsControlLibraryHotel\obj\Debug\WindowsFormsControlLibraryHotel.csproj.CopyComplete
+C:\Users\ivanh\source\repos\.NET\lab_8\Example\Lab08\WindowsFormsControlLibraryHotel\obj\Debug\WindowsFormsControlLibraryHotel.dll
+C:\Users\ivanh\source\repos\.NET\lab_8\Example\Lab08\WindowsFormsControlLibraryHotel\obj\Debug\WindowsFormsControlLibraryHotel.pdb

@@ -1,0 +1,105 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\axuit\\Desktop\\Новая папка (2)\\labaOs\\labaOs\\7\\lab5\\InsuranceClassLibrary\\WinFormApp\\WinFormApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\axuit\\Desktop\\Новая папка (2)\\labaOs\\labaOs\\7\\lab5\\InsuranceClassLibrary\\InsuranceClassLibrary\\InsuranceClassLibrary.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\axuit\\Desktop\\Новая папка (2)\\labaOs\\labaOs\\7\\lab5\\InsuranceClassLibrary\\InsuranceClassLibrary\\InsuranceClassLibrary.csproj",
+        "projectName": "InsuranceClassLibrary",
+        "projectPath": "C:\\Users\\axuit\\Desktop\\Новая папка (2)\\labaOs\\labaOs\\7\\lab5\\InsuranceClassLibrary\\InsuranceClassLibrary\\InsuranceClassLibrary.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\axuit\\Desktop\\Новая папка (2)\\labaOs\\labaOs\\7\\lab5\\InsuranceClassLibrary\\WindowsFormsControlLibraryInsurance1\\WindowsFormsControlLibraryInsurance1.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\axuit\\Desktop\\Новая папка (2)\\labaOs\\labaOs\\7\\lab5\\InsuranceClassLibrary\\WindowsFormsControlLibraryInsurance1\\WindowsFormsControlLibraryInsurance1.csproj",
+        "projectName": "WindowsFormsControlLibraryInsurance1",
+        "projectPath": "C:\\Users\\axuit\\Desktop\\Новая папка (2)\\labaOs\\labaOs\\7\\lab5\\InsuranceClassLibrary\\WindowsFormsControlLibraryInsurance1\\WindowsFormsControlLibraryInsurance1.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\axuit\\Desktop\\Новая папка (2)\\labaOs\\labaOs\\7\\lab5\\InsuranceClassLibrary\\InsuranceClassLibrary\\InsuranceClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\axuit\\Desktop\\Новая папка (2)\\labaOs\\labaOs\\7\\lab5\\InsuranceClassLibrary\\InsuranceClassLibrary\\InsuranceClassLibrary.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\axuit\\Desktop\\Новая папка (2)\\labaOs\\labaOs\\7\\lab5\\InsuranceClassLibrary\\WinFormApp\\WinFormApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\axuit\\Desktop\\Новая папка (2)\\labaOs\\labaOs\\7\\lab5\\InsuranceClassLibrary\\WinFormApp\\WinFormApp.csproj",
+        "projectName": "WinFormApp",
+        "projectPath": "C:\\Users\\axuit\\Desktop\\Новая папка (2)\\labaOs\\labaOs\\7\\lab5\\InsuranceClassLibrary\\WinFormApp\\WinFormApp.csproj",
+        "packagesPath": "C:\\Users\\axuit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\axuit\\Desktop\\Новая папка (2)\\labaOs\\labaOs\\7\\lab5\\InsuranceClassLibrary\\WinFormApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\axuit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\axuit\\Desktop\\Новая папка (2)\\labaOs\\labaOs\\7\\lab5\\InsuranceClassLibrary\\InsuranceClassLibrary\\InsuranceClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\axuit\\Desktop\\Новая папка (2)\\labaOs\\labaOs\\7\\lab5\\InsuranceClassLibrary\\InsuranceClassLibrary\\InsuranceClassLibrary.csproj"
+              },
+              "C:\\Users\\axuit\\Desktop\\Новая папка (2)\\labaOs\\labaOs\\7\\lab5\\InsuranceClassLibrary\\WindowsFormsControlLibraryInsurance1\\WindowsFormsControlLibraryInsurance1.csproj": {
+                "projectPath": "C:\\Users\\axuit\\Desktop\\Новая папка (2)\\labaOs\\labaOs\\7\\lab5\\InsuranceClassLibrary\\WindowsFormsControlLibraryInsurance1\\WindowsFormsControlLibraryInsurance1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+@media print {
+  /* здесь будут стили для печати */
+  .filters {
+    display: none;
+  }
+}

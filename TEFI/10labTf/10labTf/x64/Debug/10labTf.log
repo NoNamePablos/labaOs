@@ -1,0 +1,12 @@
+﻿  10labTf.cpp
+C:\Users\serej\Desktop\Лабы\labaOs\TEFI\10labTf\10labTf\10labTf.cpp(308,23): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\serej\Desktop\Лабы\labaOs\TEFI\10labTf\10labTf\10labTf.cpp(310,23): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  10labTf.vcxproj -> C:\Users\serej\Desktop\Лабы\labaOs\TEFI\10labTf\x64\Debug\10labTf.exe

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CountryDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="city1">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="id_continent" Type="int" Nullable="false" />
+    <Property Name="photo" Type="image" />
+  </EntityType>
+  <EntityType Name="country1">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="photo" Type="image" />
+  </EntityType>
+  <Association Name="FK_city1_country11">
+    <End Role="country1" Type="Self.country1" Multiplicity="1" />
+    <End Role="city1" Type="Self.city1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="country1">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="city1">
+        <PropertyRef Name="id_continent" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CountryDBModelStoreContainer">
+    <EntitySet Name="city1" EntityType="Self.city1" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="country1" EntityType="Self.country1" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_city1_country11" Association="Self.FK_city1_country11">
+      <End Role="country1" EntitySet="country1" />
+      <End Role="city1" EntitySet="city1" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

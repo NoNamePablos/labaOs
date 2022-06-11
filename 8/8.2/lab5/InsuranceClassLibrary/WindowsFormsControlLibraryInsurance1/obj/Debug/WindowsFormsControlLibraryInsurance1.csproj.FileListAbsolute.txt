@@ -1,0 +1,35 @@
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\bin\Debug\WindowsFormsControlLibraryInsurance1.dll
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\bin\Debug\WindowsFormsControlLibraryInsurance1.pdb
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\bin\Debug\InsuranceClassLibrary.dll
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\bin\Debug\InsuranceClassLibrary.pdb
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.csproj.AssemblyReference.cache
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.UserControl1.resources
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.csproj.GenerateResource.cache
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.csproj.CoreCompileInputs.cache
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.csproj.CopyComplete
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.dll
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.pdb
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\bin\Debug\WindowsFormsControlLibraryInsurance1.dll
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\bin\Debug\WindowsFormsControlLibraryInsurance1.pdb
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\bin\Debug\InsuranceClassLibrary.dll
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\bin\Debug\InsuranceClassLibrary.pdb
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.csproj.AssemblyReference.cache
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.csproj.GenerateResource.cache
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.csproj.CoreCompileInputs.cache
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.csproj.CopyComplete
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.dll
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.pdb
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.UserControlInsurance.resources
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\bin\Debug\WindowsFormsControlLibraryInsurance1.dll
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\bin\Debug\WindowsFormsControlLibraryInsurance1.pdb
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\bin\Debug\InsuranceClassLibrary.dll
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\bin\Debug\InsuranceClassLibrary.pdb
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.csproj.AssemblyReference.cache
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.UserControlInsurance.resources
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.csproj.GenerateResource.cache
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.csproj.CoreCompileInputs.cache
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.csproj.CopyComplete
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.dll
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WindowsFormsControlLibraryInsurance1\obj\Debug\WindowsFormsControlLibraryInsurance1.pdb

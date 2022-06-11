@@ -1,0 +1,159 @@
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.exe
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.deps.json
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.runtimeconfig.json
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.runtimeconfig.dev.json
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.dll
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\ref\WinFormApp.dll
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.pdb
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.AssemblyReference.cache
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.Form1.resources
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.GenerateResource.cache
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.AssemblyInfoInputs.cache
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.AssemblyInfo.cs
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.dll
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\ref\WinFormApp.dll
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.pdb
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.genruntimeconfig.cache
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\InsuranceClassLibrary.dll
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\InsuranceClassLibrary.pdb
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormContract.resources
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormDepartament.resources
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.CopyComplete
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.exe
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.deps.json
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.runtimeconfig.json
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.runtimeconfig.dev.json
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.dll
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\ref\WinFormApp.dll
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.pdb
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\InsuranceClassLibrary.dll
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\InsuranceClassLibrary.pdb
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.AssemblyReference.cache
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.Form1.resources
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormContract.resources
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormDepartament.resources
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.GenerateResource.cache
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.AssemblyInfoInputs.cache
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.AssemblyInfo.cs
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.CopyComplete
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.dll
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\ref\WinFormApp.dll
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.pdb
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.genruntimeconfig.cache
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormTypes.resources
+C:\Users\serej\Desktop\Лабы\Net\5\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormInformation.resources
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.exe
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.deps.json
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.runtimeconfig.json
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.runtimeconfig.dev.json
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.dll
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\ref\WinFormApp.dll
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.pdb
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\InsuranceClassLibrary.dll
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\InsuranceClassLibrary.pdb
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.AssemblyReference.cache
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.Form1.resources
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormContract.resources
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormDepartament.resources
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormInformation.resources
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormTypes.resources
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.GenerateResource.cache
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.AssemblyInfoInputs.cache
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.AssemblyInfo.cs
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.CopyComplete
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.dll
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\ref\WinFormApp.dll
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.pdb
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.genruntimeconfig.cache
+C:\Users\serej\Desktop\Лабы\Net\labaOs\6\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.Properties.Resources.resources
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.exe
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.deps.json
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.runtimeconfig.json
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.runtimeconfig.dev.json
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.dll
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\ref\WinFormApp.dll
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.pdb
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\InsuranceClassLibrary.dll
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WindowsFormsControlLibraryInsurance1.dll
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\InsuranceClassLibrary.pdb
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WindowsFormsControlLibraryInsurance1.pdb
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.AssemblyReference.cache
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.Form1.resources
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormContract.resources
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormDepartament.resources
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormInformation.resources
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormTypes.resources
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.Properties.Resources.resources
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.GenerateResource.cache
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.AssemblyInfoInputs.cache
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.AssemblyInfo.cs
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.CopyComplete
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.dll
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\ref\WinFormApp.dll
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.pdb
+C:\Users\serej\Desktop\Лабы\Net\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.genruntimeconfig.cache
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.exe
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.deps.json
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.runtimeconfig.json
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.runtimeconfig.dev.json
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.dll
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\ref\WinFormApp.dll
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.pdb
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\InsuranceClassLibrary.dll
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WindowsFormsControlLibraryInsurance1.dll
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\InsuranceClassLibrary.pdb
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WindowsFormsControlLibraryInsurance1.pdb
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.AssemblyReference.cache
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormContract.resources
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormDepartament.resources
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormInformation.resources
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormTypes.resources
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.Properties.Resources.resources
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.GenerateResource.cache
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.AssemblyInfoInputs.cache
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.AssemblyInfo.cs
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.CopyComplete
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.dll
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\ref\WinFormApp.dll
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.pdb
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.genruntimeconfig.cache
+C:\Users\axuit\Desktop\Новая папка (2)\labaOs\labaOs\7\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormMain.resources
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.exe
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.deps.json
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.runtimeconfig.json
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.runtimeconfig.dev.json
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.dll
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\ref\WinFormApp.dll
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WinFormApp.pdb
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\InsuranceClassLibrary.dll
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WindowsFormsControlLibraryInsurance1.dll
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\InsuranceClassLibrary.pdb
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\bin\Debug\net5.0-windows\WindowsFormsControlLibraryInsurance1.pdb
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.AssemblyReference.cache
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormMain.resources
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormContract.resources
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormDepartament.resources
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormInformation.resources
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.FormTypes.resources
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.Properties.Resources.resources
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.GenerateResource.cache
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.AssemblyInfoInputs.cache
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.AssemblyInfo.cs
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.csproj.CopyComplete
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.dll
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\ref\WinFormApp.dll
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.pdb
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\lab5\InsuranceClassLibrary\WinFormApp\obj\Debug\net5.0-windows\WinFormApp.genruntimeconfig.cache

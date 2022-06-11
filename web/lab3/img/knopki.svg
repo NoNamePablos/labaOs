@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1 18" width="1" height="18">
+	<title>SubMenu</title>
+	<defs>
+		<image  width="1" height="17" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAARAQMAAAAmDVRRAAAAAXNSR0IB2cksfwAAAAZQTFRFc3Nz////75d13wAAAAJ0Uk5T/wDltzBKAAAADklEQVR4nGNgYGhgwIsBRCIEAYi4wWUAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="SubMenu">
+		<use id="Layer 37" href="#img1" x="0" y="0" />
+	</g>
+</svg>

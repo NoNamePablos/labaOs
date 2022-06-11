@@ -1,0 +1,71 @@
+﻿<Window x:Class="Lab13.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab13"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="784" Loaded="Window_Loaded">
+    <Window.Resources>
+        <local:CountryDBDataSet x:Key="countryDBDataSet"/>
+        <CollectionViewSource x:Key="continentViewSource" Source="{Binding continent, Source={StaticResource countryDBDataSet}}"/>
+        <CollectionViewSource x:Key="countryViewSource" Source="{Binding country, Source={StaticResource countryDBDataSet}}"/>
+    </Window.Resources>
+    <Grid>
+        <TabControl x:Name="MainTabControl">
+            <TabItem Header="Страны">
+                <Grid Background="#FFE5E5E5" DataContext="{StaticResource continentViewSource}">
+                    <DataGrid x:Name="continentDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding}" Margin="0,35,0,0" RowDetailsVisibilityMode="VisibleWhenSelected">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn x:Name="idColumn" Binding="{Binding id}" Header="id" IsReadOnly="True" Width="100"/>
+                            <DataGridTextColumn x:Name="nameColumn" Binding="{Binding name}" Header="name" Width="400"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Button x:Name="SaveContinent" Content="Сохранить" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="SaveContinent_Click" d:IsLocked="True"/>
+                    <Button x:Name="DeleteContinent" Content="Удалить" HorizontalAlignment="Left" Margin="90,10,0,0" VerticalAlignment="Top" Width="75" Click="DeleteContinent_Click"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Города">
+                <Grid Background="#FFE5E5E5" DataContext="{StaticResource countryViewSource}" Margin="0,0,-4,0">
+                    <DataGrid x:Name="countryDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding}" Margin="0,35,311,0" RowDetailsVisibilityMode="VisibleWhenSelected">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn x:Name="idColumn1" Binding="{Binding id}" Header="id" IsReadOnly="True" Width="100"/>
+                            <DataGridTextColumn x:Name="nameColumn1" Binding="{Binding name}" Header="name" Width="100"/>
+                            <!--<DataGridTextColumn x:Name="id_continentColumn" Binding="{Binding id_continent}" Header="id continent" Width="100"/>-->
+                            <DataGridComboBoxColumn Header="country" x:Name="ContinentColumn" ItemsSource="{Binding Source={StaticResource continentViewSource}}" Width="150" DisplayMemberPath="name" SelectedValuePath="id" SelectedValueBinding="{Binding id_continent}"/>
+                            <DataGridTemplateColumn x:Name="photoColumn" Header="photo" Width="100">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <Image Source="{Binding photo}"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Button x:Name="SaveCountry" Content="Сохранить" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="SaveCountry_Click"/>
+                    <Button x:Name="DeleteCountry" Content="Удалить" HorizontalAlignment="Left" Margin="90,10,0,0" VerticalAlignment="Top" Width="75" Click="DeleteCountry_Click"/>
+                    <Grid HorizontalAlignment="Right" Height="310" Margin="0,81,38,0" VerticalAlignment="Top" Width="230">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Label Content="Photo:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="0" VerticalAlignment="Center">
+                            <Label.ContextMenu>
+                                <ContextMenu>
+                                    <Button Content="Загрузить" x:Name="loadImage" Click="loadImage_Click" />
+                                </ContextMenu>
+                            </Label.ContextMenu>
+                        </Label>
+                        <Border BorderThickness="1"  Grid.Column="1"  Grid.Row="0" MinWidth="150" MinHeight="200" MaxWidth="150" MaxHeight="200" BorderBrush="Black" >
+                            <Image x:Name="photoImage" Margin="3" Source="{Binding photo}" MinWidth="150" MinHeight="200" MaxWidth="150" MaxHeight="200" Width="150" Height="200" HorizontalAlignment="Left" VerticalAlignment="Top">
+                            </Image>
+                        </Border>
+                    </Grid>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CountryDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="continent">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="photo" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="countries" Relationship="Self.FK_country_continent" FromRole="continent" ToRole="country" />
+  </EntityType>
+  <EntityType Name="country">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="id_continent" Type="Int32" Nullable="false" />
+    <Property Name="photo" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="continent" Relationship="Self.FK_country_continent" FromRole="country" ToRole="continent" />
+  </EntityType>
+  <Association Name="FK_country_continent">
+    <End Role="continent" Type="Self.continent" Multiplicity="1" />
+    <End Role="country" Type="Self.country" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="continent">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="country">
+        <PropertyRef Name="id_continent" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CountryDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="continents" EntityType="Self.continent" />
+    <EntitySet Name="countries" EntityType="Self.country" />
+    <AssociationSet Name="FK_country_continent" Association="Self.FK_country_continent">
+      <End Role="continent" EntitySet="continents" />
+      <End Role="country" EntitySet="countries" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

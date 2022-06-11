@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CountryDBModelStoreContainer" CdmEntityContainer="CountryDBEntities">
+    <EntitySetMapping Name="city1">
+      <EntityTypeMapping TypeName="CountryDBModel.city1">
+        <MappingFragment StoreEntitySet="city1">
+          <ScalarProperty Name="photo" ColumnName="photo" />
+          <ScalarProperty Name="id_continent" ColumnName="id_continent" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="country1">
+      <EntityTypeMapping TypeName="CountryDBModel.country1">
+        <MappingFragment StoreEntitySet="country1">
+          <ScalarProperty Name="photo" ColumnName="photo" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

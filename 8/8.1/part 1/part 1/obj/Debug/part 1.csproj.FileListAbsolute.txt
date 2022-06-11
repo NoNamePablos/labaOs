@@ -1,0 +1,10 @@
+C:\Users\hanaw\Desktop\dotnet\lab 8\part 1\part 1\bin\Debug\part 1.exe.config
+C:\Users\hanaw\Desktop\dotnet\lab 8\part 1\part 1\bin\Debug\part 1.exe
+C:\Users\hanaw\Desktop\dotnet\lab 8\part 1\part 1\bin\Debug\part 1.pdb
+C:\Users\hanaw\Desktop\dotnet\lab 8\part 1\part 1\obj\Debug\part 1.csproj.AssemblyReference.cache
+C:\Users\hanaw\Desktop\dotnet\lab 8\part 1\part 1\obj\Debug\part_1.Form.resources
+C:\Users\hanaw\Desktop\dotnet\lab 8\part 1\part 1\obj\Debug\part_1.Properties.Resources.resources
+C:\Users\hanaw\Desktop\dotnet\lab 8\part 1\part 1\obj\Debug\part 1.csproj.GenerateResource.cache
+C:\Users\hanaw\Desktop\dotnet\lab 8\part 1\part 1\obj\Debug\part 1.csproj.CoreCompileInputs.cache
+C:\Users\hanaw\Desktop\dotnet\lab 8\part 1\part 1\obj\Debug\part 1.exe
+C:\Users\hanaw\Desktop\dotnet\lab 8\part 1\part 1\obj\Debug\part 1.pdb

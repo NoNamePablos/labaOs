@@ -1,0 +1,13 @@
+﻿  10labTf.cpp
+C:\Users\axuit\source\repos\10labTf\10labTf\10labTf.cpp(55,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\axuit\source\repos\10labTf\10labTf\10labTf.cpp(125,23): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\axuit\source\repos\10labTf\10labTf\10labTf.cpp(127,23): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  10labTf.vcxproj -> C:\Users\axuit\source\repos\10labTf\Debug\10labTf.exe

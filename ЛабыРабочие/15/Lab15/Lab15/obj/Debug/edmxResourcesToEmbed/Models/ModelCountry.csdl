@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CountryDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="CountryDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="city1" EntityType="CountryDBModel.city1" />
+    <EntitySet Name="country1" EntityType="CountryDBModel.country1" />
+    <AssociationSet Name="FK_city1_country11" Association="CountryDBModel.FK_city1_country11">
+      <End Role="country1" EntitySet="country1" />
+      <End Role="city1" EntitySet="city1" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="city1">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="id_continent" Type="Int32" Nullable="false" />
+    <Property Name="photo" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="country1" Relationship="CountryDBModel.FK_city1_country11" FromRole="city1" ToRole="country1" />
+  </EntityType>
+  <EntityType Name="country1">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="photo" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="city1" Relationship="CountryDBModel.FK_city1_country11" FromRole="country1" ToRole="city1" />
+  </EntityType>
+  <Association Name="FK_city1_country11">
+    <End Type="CountryDBModel.country1" Role="country1" Multiplicity="1" />
+    <End Type="CountryDBModel.city1" Role="city1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="country1">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="city1">
+        <PropertyRef Name="id_continent" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

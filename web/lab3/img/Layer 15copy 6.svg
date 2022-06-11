@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" width="9" height="9">
+	<title>Set 14 copy 2</title>
+	<defs>
+		<image  width="9" height="9" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAMAAADXT/YiAAAAAXNSR0IB2cksfwAAAIRQTFRFSEhIPj4+UlJSeXl5kZGRfHx8UVFRQUFBREREQEBAYmJisrKyoaGhlpaWoqKitLS0Z2dnU1NTgICAZWVlU1NTZGRkfn5+sLCwVVVVeXl5eXl5qKioe3t7YWFho6OjfHx8/Pz8pqamVlZWkJCQfX19Y2NjsbGxaGhoSEhIRUVFRUVFUFBQg/15wQAAACx0Uk5TABqQ1fjVkBoAGb7//////76Q////////kNf//////9f////41///vhkAGgCmIlAzAAAAWElEQVR4nA3I1wJAIAAF0ItCNGSUlb39//9xHg/g+QGhYRSDJSkXUmUMOs2LsjK2RsOLtuvdMIKIspvmRazY5N7P/zUIlXGLyw8NdtpByCO7cHs1JYF+3g/0MQZd42FlQwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Set 14 copy 2">
+		<use id="Layer 15 copy 6" href="#img1" x="0" y="0" />
+	</g>
+</svg>

@@ -1,0 +1,6 @@
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\10\Lab10\ClassLibraryRiver1\bin\Debug\ClassLibraryRiver1.dll
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\10\Lab10\ClassLibraryRiver1\bin\Debug\ClassLibraryRiver1.pdb
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\10\Lab10\ClassLibraryRiver1\obj\Debug\ClassLibraryRiver1.csproj.AssemblyReference.cache
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\10\Lab10\ClassLibraryRiver1\obj\Debug\ClassLibraryRiver1.csproj.CoreCompileInputs.cache
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\10\Lab10\ClassLibraryRiver1\obj\Debug\ClassLibraryRiver1.dll
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\10\Lab10\ClassLibraryRiver1\obj\Debug\ClassLibraryRiver1.pdb

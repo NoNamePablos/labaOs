@@ -1,0 +1,165 @@
+/* FILTRES */
+body {
+  background-color: #e1e1e1;
+}
+html,
+body {
+  height: 100%;
+}
+body {
+  background: radial-gradient(
+    ellipse at center,
+    rgba(255, 254, 234, 1) 0%,
+    rgba(255, 254, 234, 1) 35%,
+    #b7e8eb 100%
+  );
+  position: relative;
+}
+.ocean {
+  height: 5%;
+  width: 100%;
+  position: absolute;
+  top: -15px;
+  left: 0;
+  background: #015871;
+  transform: rotate(180deg);
+}
+
+.wave {
+  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/85486/wave.svg)
+    repeat-x;
+  position: absolute;
+  top: -198px;
+  width: 6400px;
+  height: 198px;
+  animation: wave 7s cubic-bezier(0.36, 0.45, 0.63, 0.53) infinite;
+  transform: translate3d(0, 0, 0);
+}
+
+.wave:nth-of-type(2) {
+  top: -175px;
+  animation: wave 7s cubic-bezier(0.36, 0.45, 0.63, 0.53) -0.125s infinite,
+    swell 7s ease -1.25s infinite;
+  opacity: 1;
+}
+
+@keyframes wave {
+  0% {
+    margin-left: 0;
+  }
+  100% {
+    margin-left: -1600px;
+  }
+}
+
+@keyframes swell {
+  0%,
+  100% {
+    transform: translate3d(0, -25px, 0);
+  }
+  50% {
+    transform: translate3d(0, 5px, 0);
+  }
+}
+.Goods {
+  padding: 50px 0;
+}
+
+.Goods br {
+  clear: both;
+}
+
+.filters {
+  padding-left: 40px;
+  float: left;
+  width: 11%;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+  padding-right: 10px;
+  border-bottom-right-radius: 6px;
+  border-top-right-radius: 6px;
+  background: #fff;
+}
+
+.phonesDiv {
+  width: 77%;
+  float: right;
+  margin-right: 50px;
+  margin-top: -15px;
+}
+
+.resetFiltres {
+  text-align: center;
+  padding-top: 40px;
+  width: 85%;
+  float: right;
+}
+
+.resetButton {
+  width: 10%;
+  left: 45%;
+}
+
+.PHONE {
+  opacity: 0;
+  padding: 5px;
+  display: inline-block;
+  width: 0px;
+  animation-name: a1;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+}
+
+.phone {
+  border: 1px solid #000;
+  border-radius: 10px;
+  padding: 40px;
+}
+
+.filterBlockTitle {
+  padding-top: 10px;
+}
+
+.en {
+  color: black;
+}
+
+.dis {
+  color: #ccc;
+}
+.phones {
+  background-color: #fff;
+  margin-left: 30px;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+}
+input[type='checkbox'] {
+  float: right;
+}
+
+label {
+  display: block;
+  clear: both;
+}
+
+/* FILTRES */
+
+/*text*/
+
+.title {
+  text-align: center;
+  font: 40px 'Oswald', sans-serif;
+  padding-top: 120px;
+  margin: 0 auto;
+}
+.hide {
+  opacity: 0;
+  animation-name: a1;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+}
+@keyframes a1 {
+  to {
+    opacity: 1;
+    width: 200px;
+    padding: 40px;
+  }
+}

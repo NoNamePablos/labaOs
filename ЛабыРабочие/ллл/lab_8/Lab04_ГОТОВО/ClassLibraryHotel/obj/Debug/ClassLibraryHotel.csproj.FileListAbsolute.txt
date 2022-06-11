@@ -1,0 +1,30 @@
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.csproj.CoreCompileInputs.cache
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.csprojAssemblyReference.cache
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\ClassLibraryHotel\bin\Debug\ClassLibraryHotel.dll
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\ClassLibraryHotel\bin\Debug\ClassLibraryHotel.pdb
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.dll
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.pdb
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\ClassLibraryHotel\bin\Debug\ClassLibraryHotel.dll
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\ClassLibraryHotel\bin\Debug\ClassLibraryHotel.pdb
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.csprojAssemblyReference.cache
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.csproj.CoreCompileInputs.cache
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.dll
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.pdb
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\ClassLibraryHotel\bin\Debug\ClassLibraryHotel.dll
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\ClassLibraryHotel\bin\Debug\ClassLibraryHotel.pdb
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\ClassLibraryHotel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\ClassLibraryHotel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.csprojAssemblyReference.cache
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.csproj.CoreCompileInputs.cache
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.csproj.CopyComplete
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.dll
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.pdb
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\ClassLibraryHotel\bin\Debug\ClassLibraryHotel.dll
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\ClassLibraryHotel\bin\Debug\ClassLibraryHotel.pdb
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\ClassLibraryHotel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\ClassLibraryHotel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.csproj.AssemblyReference.cache
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.csproj.CoreCompileInputs.cache
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.csproj.CopyComplete
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.dll
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.pdb

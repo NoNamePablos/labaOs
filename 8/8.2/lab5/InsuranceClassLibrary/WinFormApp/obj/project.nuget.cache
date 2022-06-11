@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mbtaRZJAufb7mEOwTsvErUNUxlffvRr3jAKus0Xejx5qM1PFJJ/fpmKo86t/Nx4m7tiPB4KI0IWjHXT9jSyBPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\axuit\\Desktop\\Новая папка (2)\\labaOs\\labaOs\\8\\8.2\\lab5\\InsuranceClassLibrary\\WinFormApp\\WinFormApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\axuit\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\InsuranceClassLibrary\bin\Debug\InsuranceClassLibrary.dll
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\InsuranceClassLibrary\bin\Debug\InsuranceClassLibrary.pdb
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\InsuranceClassLibrary\obj\Debug\InsuranceClassLibrary.csproj.AssemblyReference.cache
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\InsuranceClassLibrary\obj\Debug\InsuranceClassLibrary.FormControl.resources
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\InsuranceClassLibrary\obj\Debug\InsuranceClassLibrary.csproj.GenerateResource.cache
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\InsuranceClassLibrary\obj\Debug\InsuranceClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\InsuranceClassLibrary\obj\Debug\InsuranceClassLibrary.dll
+C:\Users\serej\Desktop\Лабы\Net\4\lab4\InsuranceClassLibrary\InsuranceClassLibrary\obj\Debug\InsuranceClassLibrary.pdb

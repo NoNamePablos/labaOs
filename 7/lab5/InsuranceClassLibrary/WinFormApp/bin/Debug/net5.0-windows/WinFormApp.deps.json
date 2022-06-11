@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WinFormApp/1.0.0": {
+        "dependencies": {
+          "InsuranceClassLibrary": "1.0.0",
+          "WindowsFormsControlLibraryInsurance1": "1.0.0"
+        },
+        "runtime": {
+          "WinFormApp.dll": {}
+        }
+      },
+      "InsuranceClassLibrary/1.0.0": {
+        "runtime": {
+          "InsuranceClassLibrary.dll": {}
+        }
+      },
+      "WindowsFormsControlLibraryInsurance1/1.0.0": {
+        "dependencies": {
+          "InsuranceClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "WindowsFormsControlLibraryInsurance1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InsuranceClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WindowsFormsControlLibraryInsurance1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\10\Lab10\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\10\Lab10\TestClient\bin\Debug\TestClient.exe
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\10\Lab10\TestClient\bin\Debug\TestClient.pdb
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\10\Lab10\TestClient\bin\Debug\ClassLibraryRiver1.dll
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\10\Lab10\TestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\10\Lab10\TestClient\bin\Debug\ClassLibraryRiver1.pdb
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\10\Lab10\TestClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\10\Lab10\TestClient\obj\Debug\TestClient.csproj.AssemblyReference.cache
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\10\Lab10\TestClient\obj\Debug\TestClient.csproj.CoreCompileInputs.cache
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\10\Lab10\TestClient\obj\Debug\TestClient.csproj.CopyComplete
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\10\Lab10\TestClient\obj\Debug\TestClient.exe
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\10\Lab10\TestClient\obj\Debug\TestClient.pdb

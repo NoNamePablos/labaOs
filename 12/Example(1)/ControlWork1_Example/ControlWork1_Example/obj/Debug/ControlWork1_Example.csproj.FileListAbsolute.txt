@@ -1,0 +1,21 @@
+G:\Project\My_Projects\C#\ControlWork1_Example\ControlWork1_Example\bin\Debug\usersDB.mdb
+G:\Project\My_Projects\C#\ControlWork1_Example\ControlWork1_Example\bin\Debug\ControlWork1_Example.exe.config
+G:\Project\My_Projects\C#\ControlWork1_Example\ControlWork1_Example\bin\Debug\ControlWork1_Example.exe
+G:\Project\My_Projects\C#\ControlWork1_Example\ControlWork1_Example\bin\Debug\ControlWork1_Example.pdb
+G:\Project\My_Projects\C#\ControlWork1_Example\ControlWork1_Example\obj\Debug\ResolveAssemblyReference.cache
+G:\Project\My_Projects\C#\ControlWork1_Example\ControlWork1_Example\obj\Debug\ControlWork1_Example.Form1.resources
+G:\Project\My_Projects\C#\ControlWork1_Example\ControlWork1_Example\obj\Debug\ControlWork1_Example.Properties.Resources.resources
+G:\Project\My_Projects\C#\ControlWork1_Example\ControlWork1_Example\obj\Debug\ControlWork1_Example.csproj.GenerateResource.Cache
+G:\Project\My_Projects\C#\ControlWork1_Example\ControlWork1_Example\obj\Debug\ControlWork1_Example.exe
+G:\Project\My_Projects\C#\ControlWork1_Example\ControlWork1_Example\obj\Debug\ControlWork1_Example.pdb
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\12\Example(1)\ControlWork1_Example\ControlWork1_Example\bin\Debug\usersDB.mdb
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\12\Example(1)\ControlWork1_Example\ControlWork1_Example\bin\Debug\ControlWork1_Example.exe.config
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\12\Example(1)\ControlWork1_Example\ControlWork1_Example\bin\Debug\ControlWork1_Example.exe
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\12\Example(1)\ControlWork1_Example\ControlWork1_Example\bin\Debug\ControlWork1_Example.pdb
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\12\Example(1)\ControlWork1_Example\ControlWork1_Example\obj\Debug\ControlWork1_Example.csproj.AssemblyReference.cache
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\12\Example(1)\ControlWork1_Example\ControlWork1_Example\obj\Debug\ControlWork1_Example.Form1.resources
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\12\Example(1)\ControlWork1_Example\ControlWork1_Example\obj\Debug\ControlWork1_Example.Properties.Resources.resources
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\12\Example(1)\ControlWork1_Example\ControlWork1_Example\obj\Debug\ControlWork1_Example.csproj.GenerateResource.cache
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\12\Example(1)\ControlWork1_Example\ControlWork1_Example\obj\Debug\ControlWork1_Example.csproj.CoreCompileInputs.cache
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\12\Example(1)\ControlWork1_Example\ControlWork1_Example\obj\Debug\ControlWork1_Example.exe
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\12\Example(1)\ControlWork1_Example\ControlWork1_Example\obj\Debug\ControlWork1_Example.pdb

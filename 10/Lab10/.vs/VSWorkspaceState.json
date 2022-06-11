@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ClassLibraryRiver1",
+    "\\ClassLibraryRiver1\\Library",
+    "\\ClassLibrarySeas",
+    "\\Client",
+    "\\Server",
+    "\\TestClient"
+  ],
+  "SelectedNode": "\\Server\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

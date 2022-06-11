@@ -1,0 +1,9 @@
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\Example\Lab08\ClassLibraryHotel\bin\Debug\ClassLibraryHotel.dll
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\Example\Lab08\ClassLibraryHotel\bin\Debug\ClassLibraryHotel.pdb
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\Example\Lab08\ClassLibraryHotel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\Example\Lab08\ClassLibraryHotel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\Example\Lab08\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.csproj.AssemblyReference.cache
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\Example\Lab08\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.csproj.CoreCompileInputs.cache
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\Example\Lab08\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.csproj.CopyComplete
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\Example\Lab08\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.dll
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\8\8.2\Example\Lab08\ClassLibraryHotel\obj\Debug\ClassLibraryHotel.pdb

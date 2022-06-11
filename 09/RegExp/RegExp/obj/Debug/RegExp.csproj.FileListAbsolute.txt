@@ -1,0 +1,10 @@
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\09\RegExp\RegExp\bin\Debug\RegExp.exe.config
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\09\RegExp\RegExp\bin\Debug\RegExp.exe
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\09\RegExp\RegExp\bin\Debug\RegExp.pdb
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\09\RegExp\RegExp\obj\Debug\RegExp.csproj.AssemblyReference.cache
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\09\RegExp\RegExp\obj\Debug\RegExp.FormMain.resources
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\09\RegExp\RegExp\obj\Debug\RegExp.Properties.Resources.resources
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\09\RegExp\RegExp\obj\Debug\RegExp.csproj.GenerateResource.cache
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\09\RegExp\RegExp\obj\Debug\RegExp.csproj.CoreCompileInputs.cache
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\09\RegExp\RegExp\obj\Debug\RegExp.exe
+C:\Users\serej\Desktop\Лабы\Net\Новая папка\labaOs\09\RegExp\RegExp\obj\Debug\RegExp.pdb

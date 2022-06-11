@@ -1,0 +1,149 @@
+F:\MyDocs\Рабочая\БГТУ\_Преподавание\Дневное\.NET\Бакалавры\Labs\04\Example\Lab04\Lab04\bin\Debug\Lab04.exe.config
+F:\MyDocs\Рабочая\БГТУ\_Преподавание\Дневное\.NET\Бакалавры\Labs\04\Example\Lab04\Lab04\bin\Debug\Lab04.exe
+F:\MyDocs\Рабочая\БГТУ\_Преподавание\Дневное\.NET\Бакалавры\Labs\04\Example\Lab04\Lab04\bin\Debug\Lab04.pdb
+F:\MyDocs\Рабочая\БГТУ\_Преподавание\Дневное\.NET\Бакалавры\Labs\04\Example\Lab04\Lab04\bin\Debug\ClassLibraryHotel.dll
+F:\MyDocs\Рабочая\БГТУ\_Преподавание\Дневное\.NET\Бакалавры\Labs\04\Example\Lab04\Lab04\bin\Debug\ClassLibraryHotel.pdb
+F:\MyDocs\Рабочая\БГТУ\_Преподавание\Дневное\.NET\Бакалавры\Labs\04\Example\Lab04\Lab04\obj\Debug\Lab04.csprojResolveAssemblyReference.cache
+F:\MyDocs\Рабочая\БГТУ\_Преподавание\Дневное\.NET\Бакалавры\Labs\04\Example\Lab04\Lab04\obj\Debug\Lab04.FormClient.resources
+F:\MyDocs\Рабочая\БГТУ\_Преподавание\Дневное\.NET\Бакалавры\Labs\04\Example\Lab04\Lab04\obj\Debug\Lab04.FormMain.resources
+F:\MyDocs\Рабочая\БГТУ\_Преподавание\Дневное\.NET\Бакалавры\Labs\04\Example\Lab04\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+F:\MyDocs\Рабочая\БГТУ\_Преподавание\Дневное\.NET\Бакалавры\Labs\04\Example\Lab04\Lab04\obj\Debug\Lab04.csproj.GenerateResource.Cache
+F:\MyDocs\Рабочая\БГТУ\_Преподавание\Дневное\.NET\Бакалавры\Labs\04\Example\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+F:\MyDocs\Рабочая\БГТУ\_Преподавание\Дневное\.NET\Бакалавры\Labs\04\Example\Lab04\Lab04\obj\Debug\Lab04.exe
+F:\MyDocs\Рабочая\БГТУ\_Преподавание\Дневное\.NET\Бакалавры\Labs\04\Example\Lab04\Lab04\obj\Debug\Lab04.pdb
+F:\MyDocs\Рабочая\БГТУ\_Преподавание\Дневное\.NET\Бакалавры\Labs\04\Example\Lab04\Lab04\obj\Debug\Lab04.FormRoom.resources
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_example\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_example\Lab04\bin\Debug\Lab04.exe
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_example\Lab04\bin\Debug\Lab04.pdb
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_example\Lab04\bin\Debug\ClassLibraryHotel.dll
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_example\Lab04\bin\Debug\ClassLibraryHotel.pdb
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_example\Lab04\obj\Debug\Lab04.csprojAssemblyReference.cache
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_example\Lab04\obj\Debug\Lab04.FormMain.resources
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_example\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_example\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_example\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_example\Lab04\obj\Debug\Lab04.csproj.CopyComplete
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_example\Lab04\obj\Debug\Lab04.exe
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_example\Lab04\obj\Debug\Lab04.pdb
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_example\Lab04\obj\Debug\lab4_samopal.FormTypeOfWorks.resources
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_example\Lab04\obj\Debug\lab4.FormEmployee.resources
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.exe
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.pdb
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_ГОТОВО\Lab04\bin\Debug\ClassLibraryHotel.dll
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_ГОТОВО\Lab04\bin\Debug\ClassLibraryHotel.pdb
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csprojAssemblyReference.cache
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_ГОТОВО\Lab04\obj\Debug\lab4.FormEmployee.resources
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.FormMain.resources
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_ГОТОВО\Lab04\obj\Debug\lab4_samopal.FormTypeOfWorks.resources
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.CopyComplete
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.exe
+C:\Users\ivanh\source\repos\.NET\lab4\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.pdb
+C:\Users\ivanh\source\repos\.NET\lab_4\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\ivanh\source\repos\.NET\lab_4\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.exe
+C:\Users\ivanh\source\repos\.NET\lab_4\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.pdb
+C:\Users\ivanh\source\repos\.NET\lab_4\Lab04_ГОТОВО\Lab04\bin\Debug\ClassLibraryHotel.dll
+C:\Users\ivanh\source\repos\.NET\lab_4\Lab04_ГОТОВО\Lab04\bin\Debug\ClassLibraryHotel.pdb
+C:\Users\ivanh\source\repos\.NET\lab_4\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csprojAssemblyReference.cache
+C:\Users\ivanh\source\repos\.NET\lab_4\Lab04_ГОТОВО\Lab04\obj\Debug\lab4.FormEmployee.resources
+C:\Users\ivanh\source\repos\.NET\lab_4\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.FormMain.resources
+C:\Users\ivanh\source\repos\.NET\lab_4\Lab04_ГОТОВО\Lab04\obj\Debug\lab4_samopal.FormTypeOfWorks.resources
+C:\Users\ivanh\source\repos\.NET\lab_4\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+C:\Users\ivanh\source\repos\.NET\lab_4\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+C:\Users\ivanh\source\repos\.NET\lab_4\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\ivanh\source\repos\.NET\lab_4\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.CopyComplete
+C:\Users\ivanh\source\repos\.NET\lab_4\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.exe
+C:\Users\ivanh\source\repos\.NET\lab_4\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.pdb
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csprojAssemblyReference.cache
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\Lab04\obj\Debug\lab4.FormEmployee.resources
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.FormMain.resources
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\Lab04\obj\Debug\lab4_samopal.FormTypeOfWorks.resources
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.exe
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.pdb
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.exe
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.pdb
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\Lab04\bin\Debug\ClassLibraryHotel.dll
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\Lab04\bin\Debug\ClassLibraryHotel.pdb
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.CopyComplete
+C:\Users\ivanh\source\repos\.NET\lab_5\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.FormWorks.resources
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.exe
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.pdb
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\Lab04\bin\Debug\ClassLibraryHotel.dll
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\Lab04\bin\Debug\ClassLibraryHotel.pdb
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csprojAssemblyReference.cache
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\Lab04\obj\Debug\lab4.FormEmployee.resources
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.FormMain.resources
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\Lab04\obj\Debug\lab4_samopal.FormTypeOfWorks.resources
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.FormWorks.resources
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.CopyComplete
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.exe
+C:\Users\ivanh\source\repos\.NET\lab_6\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.pdb
+C:\Users\ivanh\source\repos\.NET\lab_7\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\ivanh\source\repos\.NET\lab_7\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.exe
+C:\Users\ivanh\source\repos\.NET\lab_7\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.pdb
+C:\Users\ivanh\source\repos\.NET\lab_7\Lab04_ГОТОВО\Lab04\bin\Debug\ClassLibraryHotel.dll
+C:\Users\ivanh\source\repos\.NET\lab_7\Lab04_ГОТОВО\Lab04\bin\Debug\WindowsFormsControlLibraryHotel.dll
+C:\Users\ivanh\source\repos\.NET\lab_7\Lab04_ГОТОВО\Lab04\bin\Debug\ClassLibraryHotel.pdb
+C:\Users\ivanh\source\repos\.NET\lab_7\Lab04_ГОТОВО\Lab04\bin\Debug\WindowsFormsControlLibraryHotel.pdb
+C:\Users\ivanh\source\repos\.NET\lab_7\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csprojAssemblyReference.cache
+C:\Users\ivanh\source\repos\.NET\lab_7\Lab04_ГОТОВО\Lab04\obj\Debug\lab4.FormEmployee.resources
+C:\Users\ivanh\source\repos\.NET\lab_7\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.FormMain.resources
+C:\Users\ivanh\source\repos\.NET\lab_7\Lab04_ГОТОВО\Lab04\obj\Debug\lab4_samopal.FormTypeOfWorks.resources
+C:\Users\ivanh\source\repos\.NET\lab_7\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.FormWorks.resources
+C:\Users\ivanh\source\repos\.NET\lab_7\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+C:\Users\ivanh\source\repos\.NET\lab_7\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+C:\Users\ivanh\source\repos\.NET\lab_7\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\ivanh\source\repos\.NET\lab_7\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.CopyComplete
+C:\Users\ivanh\source\repos\.NET\lab_7\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.exe
+C:\Users\ivanh\source\repos\.NET\lab_7\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.pdb
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csprojAssemblyReference.cache
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\lab4.FormEmployee.resources
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.FormMain.resources
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\lab4_samopal.FormTypeOfWorks.resources
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.FormWorks.resources
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.exe
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.pdb
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.exe
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.pdb
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\Lab04\bin\Debug\ClassLibraryHotel.dll
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\Lab04\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\Lab04\bin\Debug\WindowsFormsControlLibraryHotel.dll
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\Lab04\bin\Debug\ClassLibraryHotel.pdb
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\Lab04\bin\Debug\WindowsFormsControlLibraryHotel.pdb
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\Lab04\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ivanh\source\repos\.NET\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.CopyComplete
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.exe
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\Lab04\bin\Debug\Lab04.pdb
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\Lab04\bin\Debug\ClassLibraryHotel.dll
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\Lab04\bin\Debug\Newtonsoft.Json.dll
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\Lab04\bin\Debug\WindowsFormsControlLibraryHotel.dll
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\Lab04\bin\Debug\ClassLibraryHotel.pdb
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\Lab04\bin\Debug\WindowsFormsControlLibraryHotel.pdb
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\Lab04\bin\Debug\Newtonsoft.Json.xml
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.AssemblyReference.cache
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\lab4.FormEmployee.resources
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.FormMain.resources
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\lab4_samopal.FormTypeOfWorks.resources
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.FormWorks.resources
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.csproj.CopyComplete
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.exe
+C:\Users\axuit\Desktop\Новая папка (2)\laba12-16\ЛабыРабочие\ллл\lab_8\Lab04_ГОТОВО\Lab04\obj\Debug\Lab04.pdb

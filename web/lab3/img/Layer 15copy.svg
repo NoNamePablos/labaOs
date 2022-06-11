@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 13" width="13" height="13">
+	<title>Set 14</title>
+	<defs>
+		<image  width="13" height="13" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAMAAABFNRROAAAAAXNSR0IB2cksfwAAAPNQTFRF////ehBAchtFcxZCfBdDbRw8dxk+dhM/fBJAbxM8n01zz5Cv68nh//f/+M/dyZaplUppdRpDew9Al3WG6sTPrYKMkUdeeB8/ikpbsHqK/MHXsG6KdBE9oTZKoSw+sTFKmCpDrihLpDJThTpR7LbNmlNzfRNBsTE+rik+uC5PqilFtShLlTlSvIWYvJWogxhEq4WE6+DktYOCry1JmixJkUNb6trkexA8/fr/5u7XqCZAtS1RgBc2+fr8dBg9uHd1qjVIpClFjUha+MnbcR0/rCpGnDFLtn2OyZWrbhI5jENX88DTkEtqgxlHrWiHdxZBiBZJ3DZPSgAAAFF0Uk5TAFKc1/rXnFIXi/z///////yLF////////////4v///////////xS//////////+c/////////9f////////6///////X/////5z///xS/4sXfz9KJgAAALFJREFUeJwdjukSgQAYRT+hlKWQlJJSSBTSIrIlibK8/9OI8+/OnJl7AAAKSLFURjH4UcGJaq3eIKlmK194m+4wXZbr8UKuEXRfHEjyUFFHY0CqHXGiTfXZ3DAXUKwxA225sta243pQqnel6Wrjb3fB/gDlBivrln88ncNLBCjJDWfr7eka35I7YFRPmdu7c/xIsydAk1cNJwhv6eudv7eEkenuL0n2/vzbxgvvEN1zDb56phce3wqfGgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Set 14">
+		<use id="Layer 15 copy" href="#img1" x="0" y="0" />
+	</g>
+</svg>

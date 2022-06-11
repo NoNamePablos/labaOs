@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=+, initial-scale=1.0" />
+    <link rel="stylesheet" href="/scss/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="form">
+      <h1 class="form-title">Регистрация</h1>
+      <form class="form-registation" action="">
+        <div class="form-pole">
+          <label for="family" class="form-label">Фамилия</label>
+          <input
+            type="text"
+            class="form-input"
+            id="family"
+            name="Family"
+            placeholder="Фамилия"
+          />
+        </div>
+        <div class="form-pole">
+          <label for="name" class="form-label">Имя</label>
+          <input
+            type="text"
+            class="form-input"
+            id="name"
+            name="name"
+            placeholder="Имя"
+          />
+        </div>
+        <div class="form-pole">
+          <label for="secondname" class="form-label">Отчество</label>
+          <input
+            type="text"
+            class="form-input"
+            id="secondname"
+            name="secondname"
+            placeholder="Отчество"
+          />
+        </div>
+        <div class="form-pole">
+          <label for="gender" class="form-label">Пол</label>
+          <select class="form-input form-gender">
+            <option value="" hidden disabled selected>Выбрать</option>
+            <option data-gender="man">Муж</option>
+            <option data-gender="wom">Жен</option>
+            <option data-gender="binary">Бинарный чОрт</option>
+          </select>
+        </div>
+        <div class="form-pole">
+          <label for="date" class="form-label">Дата рождения</label>
+          <input type="date" class="form-input" id="date" name="date" />
+        </div>
+        <div class="form-pole">
+          <label for="range" class="form-label"
+            >Насколько вы агресивны?)))Выберите число</label
+          >
+          <input
+            type="range"
+            class="form-input"
+            id="range"
+            name="range"
+            min="0"
+            value="10"
+            max="100"
+            step="5"
+          />
+        </div>
+        <div class="form-pole">
+          <label for="email" class="form-label">Введите e-mail</label>
+          <input
+            type="email"
+            id="email"
+            class="form-input"
+            name="email"
+            placeholder="petuh228@petuh.com"
+          />
+        </div>
+        <div class="form-pole">
+          <label for="number" class="form-label">Любимое число</label>
+          <input
+            type="number"
+            id="number"
+            class="form-input"
+            name="number"
+            placeholder="228"
+          />
+        </div>
+        <div class="form-pole">
+          <label for="color" class="form-label">Либимый цвет</label>
+          <input type="color" class="form-input" id="color" name="color" />
+        </div>
+
+        <div class="form-pole">
+          <label for="goal-registration" class="form-label"
+            >Цель регистрации</label
+          >
+          <input
+            class="form-input"
+            list="goal-registrations"
+            id="goal-registration"
+            name="goal-registration"
+          />
+
+          <datalist id="goal-registrations">
+            <option value="Раслабиться"></option>
+            <option value="Изучить новое"></option>
+            <option value="Саморзавитие"></option>
+            <option value="ХЗ"></option>
+            <option value="Другое"></option>
+          </datalist>
+        </div>
+        <div class="form-pole">
+          <label for="website">Ваш вебсайт</label>
+
+          <input
+            type="url"
+            name="website"
+            id="website"
+            class="form-input"
+            placeholder="https://www.tu-bryansk.ru/"
+            pattern="https://.*"
+            size="30"
+          />
+        </div>
+        <div class="form-pole">
+          <label for="password" class="form-label">Пароль</label>
+          <input
+            type="password"
+            class="form-input"
+            id="password"
+            name="password"
+            placeholder="Пароль"
+          />
+          <input type="button" class="form-input form-password-eye" />
+        </div>
+        <div class="form-pole">
+          <textarea
+            class="form-area"
+            name="active-area"
+            id="active-area"
+            cols="30"
+            rows="10"
+            placeholder="Ваше сообщение"
+          ></textarea>
+        </div>
+        <div class="form-pole">
+          <input type="reset" class="form-btn" value="Сбросить" />
+          <input type="submit" class="form-btn" value="Подтвердить" />
+        </div>
+      </form>
+    </div>
+    <script src="./js/validate.js"></script>
+  </body>
+</html>
